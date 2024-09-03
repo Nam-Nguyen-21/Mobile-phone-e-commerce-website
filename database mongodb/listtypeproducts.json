@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "6375d4f0a00076094824d779"
+  },
+  "name": "VSmart",
+  "img": "https://res.cloudinary.com/caokhahieu/image/upload/v1668666608/xg66rfo25ipudpnjvrz6.jpg",
+  "cloudinary_id": "xg66rfo25ipudpnjvrz6",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668666608461"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668666608461"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d4f9a00076094824d77a"
+  },
+  "name": "Sony",
+  "img": "https://res.cloudinary.com/caokhahieu/image/upload/v1668666617/p0hjanja70f5z5jooeir.png",
+  "cloudinary_id": "p0hjanja70f5z5jooeir",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668666617582"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668666617582"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d505a00076094824d77b"
+  },
+  "name": "iPhone",
+  "img": "https://res.cloudinary.com/caokhahieu/image/upload/v1668666628/jagqfsuh5mfjelnsh7ia.png",
+  "cloudinary_id": "jagqfsuh5mfjelnsh7ia",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668666629045"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668666629045"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d511a00076094824d77c"
+  },
+  "name": "Samsung",
+  "img": "https://res.cloudinary.com/caokhahieu/image/upload/v1668666641/wgerqwc9lzafo6ie1bt9.jpg",
+  "cloudinary_id": "wgerqwc9lzafo6ie1bt9",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668666641943"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668666641943"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d51ba00076094824d77d"
+  },
+  "name": "Vivo",
+  "img": "https://res.cloudinary.com/caokhahieu/image/upload/v1668666651/sjnfuimbmrj4lm5pxvgj.png",
+  "cloudinary_id": "sjnfuimbmrj4lm5pxvgj",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668666651841"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668666651841"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d524a00076094824d77e"
+  },
+  "name": "Oppo",
+  "img": "https://res.cloudinary.com/caokhahieu/image/upload/v1668666660/lyp8wbucamdoradbg5tm.jpg",
+  "cloudinary_id": "lyp8wbucamdoradbg5tm",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668666660998"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668666660998"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d52ea00076094824d77f"
+  },
+  "name": "realme",
+  "img": "https://res.cloudinary.com/caokhahieu/image/upload/v1668666670/b9cphfq6ydite02ebcqs.png",
+  "cloudinary_id": "b9cphfq6ydite02ebcqs",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668666670571"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668666670571"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d537a00076094824d780"
+  },
+  "name": "Nokia",
+  "img": "https://res.cloudinary.com/caokhahieu/image/upload/v1668666679/wuffjgikosqdklca9kkv.png",
+  "cloudinary_id": "wuffjgikosqdklca9kkv",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668666679527"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668666679527"
+    }
+  },
+  "__v": 0
+}]

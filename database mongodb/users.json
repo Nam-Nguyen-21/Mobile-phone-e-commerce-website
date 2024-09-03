@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "634abca384adde7b72590c59"
+  },
+  "name": "Thi",
+  "email": "Thi@gmail.com",
+  "password": "admin",
+  "address": "",
+  "phone": "",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665842339281"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665842339281"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634bfbeafd6eb54dc07800ff"
+  },
+  "name": "Tánh",
+  "email": "tanh@gmail.com",
+  "password": "admin",
+  "address": "",
+  "phone": "",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665924074751"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665924074751"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638866bbae7bc90ef81c5de5"
+  },
+  "name": "tanh",
+  "email": "tanhngoc4@gmail.com",
+  "password": "123",
+  "address": "",
+  "phone": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669883579287"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669883579287"
+    }
+  },
+  "__v": 0
+}]
